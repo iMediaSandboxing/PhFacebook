@@ -329,7 +329,7 @@
 				GCC_PREFIX_HEADER = private/PhFacebook_Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "@rpath";
-				ONLY_ACTIVE_ARCH = NO;
+				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.casgrain.${PRODUCT_NAME:rfc1034Identifier}";
 				PRODUCT_NAME = PhFacebook;
 				SKIP_INSTALL = YES;
